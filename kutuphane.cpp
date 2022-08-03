@@ -1,14 +1,4 @@
-﻿/**********************************************************************
-**                      SAKARYA ÜNİVERSİTESİ
-**              BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**                 BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**                  PROGRAMLAMAYA GİRİŞ DERSİ
-**
-**                PROJE NUMARASI    : 1
-**                ÖĞRENCİ ADI      : ASLIHAN AKBULUT
-**                ÖĞRENCİ NUMARASI : G201210080
-**                DERS GRUBU       : A (İ.Ö.)
-***********************************************************************/
+
 
 using namespace std;
 #include <windows.h>
